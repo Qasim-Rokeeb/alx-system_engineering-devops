@@ -1,2 +1,2 @@
-#!/bin/bash
-tolist toweb blinkerlights.nl
+ #!/bin/bash
+telnet towel.blinkenlights.nl
